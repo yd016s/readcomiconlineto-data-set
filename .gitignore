@@ -11,3 +11,5 @@ htmlcov/
 
 dist/
 *.egg-info/
+
+test*
